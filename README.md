@@ -151,14 +151,15 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d249a04-690b-411d-aeb8-e25b8a61a3ba" width="50%" />
-  <img src="https://github.com/user-attachments/assets/5c519b29-23b0-44d2-98f0-8199de755eb5" width="50%" />
+  <img width="1340" height="798" alt="스크린샷 2025-08-27 12 08 49" src="https://github.com/user-attachments/assets/a6f2f88d-1f3d-4191-87dc-c890b1e12e20" />
+  <img width="1313" height="809" alt="스크린샷 2025-08-27 12 08 54" src="https://github.com/user-attachments/assets/9f7e45d6-5a0c-4b47-aadb-645e00bbd9ff" />
 </p>
 
 - **문제 풀이**
 ---
 
-<img width="1440" height="900" alt="스크린샷 2025-08-27 12 09 21" src="https://github.com/user-attachments/assets/d6f7379b-e757-4c8f-bb12-d6a33831290e" />
+<img width="1432" height="583" alt="스크린샷 2025-08-27 12 09 21" src="https://github.com/user-attachments/assets/efbccfec-166a-467b-a54f-f9b00088b598" />
+
 - **게임 종료 후 랭킹 반환**
 ---
 
