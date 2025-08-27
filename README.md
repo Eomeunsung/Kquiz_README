@@ -150,8 +150,10 @@
 - **강퇴 기능**
 ---
 
-<img width="1440" height="900" alt="스크린샷 2025-08-27 12 08 49" src="https://github.com/user-attachments/assets/6d249a04-690b-411d-aeb8-e25b8a61a3ba" />
-<img width="1440" height="900" alt="스크린샷 2025-08-27 12 08 54" src="https://github.com/user-attachments/assets/5c519b29-23b0-44d2-98f0-8199de755eb5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d249a04-690b-411d-aeb8-e25b8a61a3ba" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5c519b29-23b0-44d2-98f0-8199de755eb5" width="45%" />
+</p>
 - **문제 풀이**
 ---
 
