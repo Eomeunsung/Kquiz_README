@@ -145,6 +145,19 @@
 - **참여자/호스트 로비 화면**
 ---
 
+<img width="1095" height="506" alt="스크린샷 2025-08-27 11 45 31" src="https://github.com/user-attachments/assets/f1267ccb-fa7b-49f9-a835-59a564cdb525" />
+
+- **강퇴 기능**
+---
+
+<img width="1440" height="900" alt="스크린샷 2025-08-27 12 08 49" src="https://github.com/user-attachments/assets/6d249a04-690b-411d-aeb8-e25b8a61a3ba" />
+<img width="1440" height="900" alt="스크린샷 2025-08-27 12 08 54" src="https://github.com/user-attachments/assets/5c519b29-23b0-44d2-98f0-8199de755eb5" />
+- **문제 풀이**
+---
+
+<img width="1440" height="900" alt="스크린샷 2025-08-27 12 09 21" src="https://github.com/user-attachments/assets/d6f7379b-e757-4c8f-bb12-d6a33831290e" />
+- **게임 종료 후 랭킹 반환**
+---
 
 
 
