@@ -167,6 +167,18 @@
 - **게임 종료 후 랭킹 반환**
 ---
 
+<img width="1390" height="781" alt="스크린샷 2025-08-27 12 45 11" src="https://github.com/user-attachments/assets/0e4984d0-fcfb-4123-a0c9-6fef92ebdd4d" />
+- **관리자 기능**
+---
+  
+<img width="1390" height="781" alt="스크린샷 2025-08-27 12 45 24" src="https://github.com/user-attachments/assets/d4f01982-14fa-4927-957d-e2450223c735" />
+- **관리자 유저 설정**
+---
+
+<img width="1390" height="781" alt="스크린샷 2025-08-27 12 45 29" src="https://github.com/user-attachments/assets/f6264d7b-9602-4c7a-8650-64496ad9bee8" />
+- **관리자 퀴즈 설정**
+---
+
 
 
 
