@@ -151,9 +151,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d249a04-690b-411d-aeb8-e25b8a61a3ba" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5c519b29-23b0-44d2-98f0-8199de755eb5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/6d249a04-690b-411d-aeb8-e25b8a61a3ba" width="50%" />
+  <img src="https://github.com/user-attachments/assets/5c519b29-23b0-44d2-98f0-8199de755eb5" width="50%" />
 </p>
+
 - **문제 풀이**
 ---
 
