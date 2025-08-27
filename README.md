@@ -151,8 +151,8 @@
 ---
 
 <p align="center">
-  <img width="1340" height="798" alt="스크린샷 2025-08-27 12 08 49" src="https://github.com/user-attachments/assets/a6f2f88d-1f3d-4191-87dc-c890b1e12e20" />
-  <img width="1313" height="809" alt="스크린샷 2025-08-27 12 08 54" src="https://github.com/user-attachments/assets/9f7e45d6-5a0c-4b47-aadb-645e00bbd9ff" />
+  <img width="1340" height="798" alt="스크린샷 2025-08-27 12 08 49" src="https://github.com/user-attachments/assets/a6f2f88d-1f3d-4191-87dc-c890b1e12e20"  width="45%" />
+  <img width="1313" height="809" alt="스크린샷 2025-08-27 12 08 54" src="https://github.com/user-attachments/assets/9f7e45d6-5a0c-4b47-aadb-645e00bbd9ff" width="45%"/>
 </p>
 
 - **문제 풀이**
