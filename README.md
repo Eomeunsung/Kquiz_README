@@ -119,13 +119,12 @@
 
 <img width="1404" height="807" alt="quiz create3" src="https://github.com/user-attachments/assets/36d90d86-43f2-4d5a-9572-e26b1f15f2d5" />
 
-
 - **퀴즈 제작 화면2**
 ---
 
 <img width="1404" height="807" alt="quiz create main" src="https://github.com/user-attachments/assets/5544d4f4-127c-43f2-96cc-a87535ca1a94" />
 
-- **개인 채팅 화면**
+- **퀴즈라이브러리 화면**
 ---
 
 <img width="1404" height="807" alt="game create" src="https://github.com/user-attachments/assets/3aba3557-e23c-41bd-b184-7799363c2abf" />
@@ -157,7 +156,6 @@
   <img src="https://github.com/user-attachments/assets/a6f2f88d-1f3d-4191-87dc-c890b1e12e20" width="45%" />
   <img src="https://github.com/user-attachments/assets/9f7e45d6-5a0c-4b47-aadb-645e00bbd9ff" width="45%" />
 </p>
-
 
 - **문제 풀이**
 ---
